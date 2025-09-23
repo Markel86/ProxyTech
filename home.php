@@ -5,7 +5,7 @@
 $usuario = $_POST['usuario'];
 $contrasena = $_POST['contrasena'];
 
-if($usuario == "Paco" && $contrasena == "Porras"){
+if($usuario == "MARKOLOLO" && $contrasena == "Porras"){
         echo "Pacoooo porro";
 } else{
         echo "ASU EL LOCO";
