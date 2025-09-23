@@ -5,9 +5,9 @@
 $usuario = $_POST['usuario'];
 $contrasena = $_POST['contrasena'];
 
-if($usuario == "MARKOLOLO" && $contrasena == "Porras"){
+if($usuario == "Paco" && $contrasena == "Porras"){
         echo "Pacoooo porro";
 } else{
-        echo "ASU EL LOCO";
+        echo "solo Paco o contraseña muy mal";
 }
 ?>
