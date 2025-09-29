@@ -6,8 +6,8 @@ $usuario = $_POST['usuario'];
 $contrasena = $_POST['contrasena'];
 
 if($usuario == "Paco" && $contrasena == "Porras"){
-        echo "Pacoooo porro";
+        echo "Pacoooo poro";
 } else{
-        echo "solo Paco o contraseña muy mal";
+        echo "solo Paco o contraseña muy mal";VDSVSDVSD
 }
 ?>
